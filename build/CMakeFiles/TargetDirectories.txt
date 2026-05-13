@@ -1,3 +1,0 @@
-/home/dev/workspace/computer_vision/depth_map/build/CMakeFiles/multi_stereo_test.dir
-/home/dev/workspace/computer_vision/depth_map/build/CMakeFiles/edit_cache.dir
-/home/dev/workspace/computer_vision/depth_map/build/CMakeFiles/rebuild_cache.dir
